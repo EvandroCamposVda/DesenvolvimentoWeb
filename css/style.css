@@ -1,0 +1,113 @@
+#header {
+	text-align: center
+}
+
+#barraInicial {
+	background: #D4D6D7;
+	text-align: center;
+	margin: 0vw 0vw 2vw 0vw;
+}
+
+#barraInicial ul{
+	display: inline-flex;
+}
+
+#barraInicial ul li{
+	padding: 3% 5vw 1.6% 5vw;
+}
+
+#barraInicial ul li a{
+	text-decoration: none;
+	color: #4D4D4D;
+	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 105px;
+	line-height: 16px;
+}
+/*Start Footer*/
+#footer {
+	background: black;
+	padding: 4vw 0vw 4vw 1vw;
+	display: flex;
+	justify-content: space-around;
+}
+
+#site {
+	display: inline-flex;
+}
+
+#site ul {
+	justify-content: space-around;
+	padding: 0vw 10vw 0vw 0vw;
+}
+
+#site a {
+	text-decoration: none;
+	color: white;
+}
+
+#comunication ul {
+	position: relative;
+	bottom: 0;
+}
+
+#comunication ul li{
+	display: flex;
+}
+
+#comunication ul li p {
+	padding: 1% 0vw 1vw 1vw;
+	color: white;
+}
+/*Finish Footer*/
+/*Start Index*/
+#slide1 div img{
+	padding-left: 3.8vw;
+}
+#miniSlide{
+	
+	text-align: center
+}
+#miniSlide ul {
+	display: inline-flex;
+	justify-content: center
+}
+#miniSlide ul li {
+	padding: 2vw 2vw 2vw 0vw;
+}
+
+#CaracteristicasProduto{
+	display: flex
+}
+
+#Ponto4Inicio{
+	display: flex;
+	justify-content: space-between;
+}
+
+#ponto4cabeca{
+	padding: 3vw 0vw 3vw 0vw;
+}
+
+#ponto4cabeca h2 {
+	color: #727376; 
+	font-family: 'Work Sans', sans-serif;
+}
+#ponto4cabeca p {
+	color: #6f6f6f; 
+	font-family: 'Work Sans', sans-serif;
+	font-size: 15px;
+    font-weight: 400;
+	line-height: 160%;
+}
+
+#CaracteristicasProdutoPonto4{
+	padding: 3vw 0vw 0vw 0vw;
+}
+
+#CaracteristicasProdutoPonto4Img{
+	display: flex
+}
+

@@ -46,6 +46,8 @@
 #site a {
 	text-decoration: none;
 	color: white;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 1vw;
 }
 
 #comunication ul {
@@ -58,9 +60,13 @@
 }
 
 #comunication ul li p {
-	padding: 1% 0vw 1vw 1vw;
+	padding: 3% 0vw 1vw 1vw;
 	color: white;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 1vw;
 }
+
+
 /*Finish Footer*/
 /*Start Index*/
 #slide1 div img{
@@ -81,6 +87,8 @@
 #CaracteristicasProduto{
 	display: flex
 }
+/*FinishInicio*/
+
 
 #Ponto4Inicio{
 	display: flex;
@@ -104,10 +112,40 @@
 }
 
 #CaracteristicasProdutoPonto4{
-	padding: 3vw 0vw 0vw 0vw;
+	padding: 3vw 0vw 6vw 0vw;
 }
+
+#CaracteristicasProdutoPonto4 h3 {
+	color: #727376; 
+	padding-bottom: 1.5vw;
+	font-family: 'Work Sans', sans-serif;
+}
+
+#CaracteristicasProdutoPonto4 img {
+	margin: 4.2vw 0vw 0vw 0vw;
+}
+
+#CaracteristicasProdutoPonto4 p {
+	color: #727376; 
+	font-size: 1.2vw;
+	font-family: 'Work Sans', sans-serif;
+}
+
 
 #CaracteristicasProdutoPonto4Img{
-	display: flex
+	display: flex;
 }
 
+#slidesPontoSecullum4 {
+	padding-bottom: 3vw;
+}
+
+#Ponto4Inicio img{
+    width: 75%;  /* Máximo da altura da imagem */
+    min-height: auto;      /* Mínimo da altura, por padrão “auto” */
+}
+
+#CaracteristicasProdutoPonto4Img img {
+	height: 500px; 
+	width: 383px;
+}

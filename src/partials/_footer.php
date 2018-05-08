@@ -1,7 +1,7 @@
 	<footer  id="footer">
 		<div  id="site">
 			<ul class="part1">
-				<li><p><a href="src/secullum/index.php">Ponto Secullum 4</a></p></li>
+				<li><p><a href="../../../src/secullum/index.php">Ponto Secullum 4</a></p></li>
 				<li><p><a href="https://secullum.com.br/secullum-mini-academia-net">Mini Academia.net</a></p></li>
 				<li><p><a href="http://www.henry.com.br/relogio-ponto/hexa_advanced">Hexa Advance</a></p></li>
 				<li><p><a href="src/henry/henry.html">Prisma Super Facil Advance</a></p></li>
